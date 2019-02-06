@@ -1,0 +1,12 @@
+{
+  "name": "misfit-v1",
+  "vapid": {
+    "site": "21bd92b0-b79b-47f2-b935-d86f8983319a"
+  },
+  "scripts": {
+    "start": "vapid start ."
+  },
+  "dependencies": {
+    "vapid-cli": "^0.3.5"
+  }
+}
